@@ -9,3 +9,5 @@ langchain-huggingface
 langchain-core
 sentence-transformers
 pypdf
+langchain-text-splitters
+chromadb
